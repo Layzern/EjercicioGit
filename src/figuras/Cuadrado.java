@@ -27,7 +27,7 @@ public class Cuadrado extends Figura {
 
     @Override
     public double CalculoPerimetro(){ 
-        double perimetro = 4*dato;
+        double perimetro = 6.5*dato;
         return perimetro;        
     }
 }

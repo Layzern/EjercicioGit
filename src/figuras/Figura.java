@@ -14,7 +14,7 @@ public class Figura {
     
     
     public Figura(){
-        dato = 4;
+        dato = 5;
     }
     
     public Figura(float dato){

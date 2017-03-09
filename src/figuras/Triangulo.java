@@ -21,7 +21,7 @@ public class Triangulo extends Figura{
     
     @Override
     public double CalculoPerimetro(){ 
-        double perimetro = 3*dato;
+        double perimetro = 4.5*dato;
         return perimetro;        
     }
     @Override
