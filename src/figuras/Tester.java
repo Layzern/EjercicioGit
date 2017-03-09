@@ -71,7 +71,7 @@ public class Tester {
                         System.out.println("vacio");
                 }
             }else if(opcion==10){
-                System.out.println("Fin programa");
+                System.out.println("El programa ha terminado");
             }
         }while(opcion!=10);
     }
